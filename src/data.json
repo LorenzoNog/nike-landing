@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/720909-1000-1000?v=1779858647&width=1000&height=1000&aspect=true",
+    "title": "Nike Air Force 1 07 LX",
+    "desc": "Zapatillas de moda para mujer",
+    "price": 99000
+  },
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/451843-1000-1000?v=1779877663&width=1000&height=1000&aspect=true",
+    "title": "Nike Revolution 6 Next Nature",
+    "desc": "Zapatillas de running para mujer",
+    "price": 41999
+  },
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/702701-1000-1000?v=1779925156&width=1000&height=1000&aspect=true",
+    "title": "Nike Revolution 6 Next Nature",
+    "desc": "Zapatillas de running para mujer",
+    "price": 41999
+  },
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/209633-1000-1000?v=1779808742&width=1000&height=1000&aspect=true",
+    "title": "Nike Alate Coverage",
+    "desc": "Top deportivo de entranmiento para mujer",
+    "price": 28790
+  },
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/455554-1000-1000?v=1779811671&width=1000&height=1000&aspect=true",
+    "title": "Nike Air Max 97 SE",
+    "desc": "Zapatillas de moda para Hombre",
+    "price": 11999
+  },
+  {
+    "img": "https://nikearprod.vtexassets.com/arquivos/ids/498470-1000-1000?v=1779803921&width=1000&height=1000&aspect=true",
+    "title": "Nike React Infinity Run Flyknit 3 Premium",
+    "desc": "Zapatillas de running para mujer",
+    "price": 11399
+  }
+]
